@@ -1,0 +1,36 @@
+<header id="header">
+    <a class="menu-btn left back">Back</a>
+    <a class="title">Challenge</a>
+    <a class="menu-btn options right">Help</a>
+</header>
+
+
+<div id="challenge-container" class="scroller">
+    
+    <div id="options-container">
+        <div id="options" class='loader'></div>
+    </div>
+    
+    <div id="blurb-container">       
+        <div id="blurb">
+            <h3><%= challenge.name %></h3>
+            <%= challenge.description.replace(/\n/g, '<br/>') %></%>
+        </div>
+    </div>
+    
+    <div id="validateArea">
+        <div class="inline-file">
+            <span class="btn btn-success btn-info btn-block validateBtn">VALIDATED</span>
+        </div>
+    </div>
+        
+        
+    <canvas id="challenge-canvas" style='display:none'></canvas>
+        
+</div>
+
+<nav class="sidebar right">
+    <ul>
+        <li><a class="options">Close</a></li>
+    </ul>
+</nav>

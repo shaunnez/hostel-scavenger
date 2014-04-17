@@ -1,0 +1,1 @@
+define(function(e){"use strict";var t=e("jquery"),n=e("utils/globals"),r=e("backbone"),i=e("models/message");return r.Firebase.Collection.extend({initialize:function(e){var e=e||{};e.limit?this.firebase=(new Firebase(n.FirebaseURL+"/messages/"+n.today())).limit(e.limit):this.firebase=new Firebase(n.FirebaseURL+"/messages/"+n.today())},model:i})});

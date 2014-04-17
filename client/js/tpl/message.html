@@ -1,0 +1,18 @@
+<li class="message <%= message.get('email') == user.get('email') ? 'right' : '' %>">
+
+    <div class="time-container">
+        <time class="timeago"><%= message.formattedTime() %></time>
+    </div>
+    
+    <div class="avatar-container">
+        <img class="avatar" src="<%= message.avatar() %>" />
+    </div>
+    
+    <div class="contents">
+       
+        <label class="username"><%= message.username() %></label>
+    
+        <label class="body"><%= message.get('body') %></label>
+    </div>
+            
+</li> 

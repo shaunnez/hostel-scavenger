@@ -1,0 +1,813 @@
+{
+    "status": "ok",
+    "page": {
+        "id": 12,
+        "type": "page",
+        "slug": "options",
+        "url": "http://hostelliving.getfreehosting.co.uk/options/",
+        "status": "publish",
+        "title": "Options",
+        "title_plain": "Options",
+        "content": "",
+        "excerpt": "",
+        "date": "2013-12-05 16:59:04",
+        "modified": "2014-02-23 20:19:02",
+        "categories": [],
+        "tags": [],
+        "author": {
+            "id": 1,
+            "slug": "admin",
+            "name": "admin",
+            "first_name": "",
+            "last_name": "",
+            "nickname": "admin",
+            "url": "",
+            "description": ""
+        },
+        "comments": [],
+        "attachments": [
+            {
+                "id": 48,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.27.21.png",
+                "slug": "screen-shot-2013-12-19-at-16-27-21",
+                "title": "Screen Shot 2013-12-19 at 16.27.21",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/png",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.27.21.png",
+                        "width": 848,
+                        "height": 650
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.27.21-150x150.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.27.21-300x229.png",
+                        "width": 300,
+                        "height": 229
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.27.21-604x270.png",
+                        "width": 604,
+                        "height": 270
+                    }
+                }
+            },
+            {
+                "id": 49,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.28.17.png",
+                "slug": "screen-shot-2013-12-19-at-16-28-17",
+                "title": "Screen Shot 2013-12-19 at 16.28.17",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/png",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.28.17.png",
+                        "width": 1494,
+                        "height": 1106
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.28.17-150x150.png",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.28.17-300x222.png",
+                        "width": 300,
+                        "height": 222
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Screen-Shot-2013-12-19-at-16.28.17-604x270.png",
+                        "width": 604,
+                        "height": 270
+                    }
+                }
+            },
+            {
+                "id": 60,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat.jpeg",
+                "slug": "arthurs-seat",
+                "title": "Arthurs seat",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/jpeg",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat-150x150.jpeg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "large": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Arthurs-seat.jpeg",
+                        "width": 259,
+                        "height": 194
+                    }
+                }
+            },
+            {
+                "id": 61,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front.jpg",
+                "slug": "national_gallery_of_scotland_exterior_front",
+                "title": "national_gallery_of_scotland_exterior_front",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/jpeg",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front.jpg",
+                        "width": 550,
+                        "height": 374
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front-300x203.jpg",
+                        "width": 300,
+                        "height": 203
+                    },
+                    "large": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front.jpg",
+                        "width": 550,
+                        "height": 374
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/national_gallery_of_scotland_exterior_front-550x270.jpg",
+                        "width": 550,
+                        "height": 270
+                    }
+                }
+            },
+            {
+                "id": 62,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/edinburgh-castle.jpg",
+                "slug": "edinburgh-castle",
+                "title": "edinburgh-castle",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/jpeg",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/edinburgh-castle.jpg",
+                        "width": 640,
+                        "height": 330
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/edinburgh-castle-150x150.jpg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/edinburgh-castle-300x154.jpg",
+                        "width": 300,
+                        "height": 154
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/edinburgh-castle-604x270.jpg",
+                        "width": 604,
+                        "height": 270
+                    }
+                }
+            },
+            {
+                "id": 63,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse.jpeg",
+                "slug": "palace-of-holyroodhouse",
+                "title": "Palace of Holyroodhouse",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/jpeg",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse-150x150.jpeg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "large": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse.jpeg",
+                        "width": 259,
+                        "height": 194
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/Palace-of-Holyroodhouse.jpeg",
+                        "width": 259,
+                        "height": 194
+                    }
+                }
+            },
+            {
+                "id": 64,
+                "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral.jpeg",
+                "slug": "st-giles-cathedral",
+                "title": "St. Giles Cathedral",
+                "description": "",
+                "caption": "",
+                "parent": 12,
+                "mime_type": "image/jpeg",
+                "images": {
+                    "full": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral.jpeg",
+                        "width": 259,
+                        "height": 195
+                    },
+                    "thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral-150x150.jpeg",
+                        "width": 150,
+                        "height": 150
+                    },
+                    "medium": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral.jpeg",
+                        "width": 259,
+                        "height": 195
+                    },
+                    "large": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral.jpeg",
+                        "width": 259,
+                        "height": 195
+                    },
+                    "post-thumbnail": {
+                        "url": "http://hostelliving.getfreehosting.co.uk/wp-content/uploads/2013/12/St.-Giles-Cathedral.jpeg",
+                        "width": 259,
+                        "height": 195
+                    }
+                }
+            }
+        ],
+        "comment_count": 0,
+        "comment_status": "open",
+        "custom_fields": {
+            "waypoint_0_location": [
+                "24 Crediton Hill, Camden Town, London NW6, UK|51.55081647604687,-0.18798387363278835"
+            ],
+            "waypoint_0_clues_0_description": [
+                "Get yourself a Barclay's bike...time to bust a sweat..."
+            ],
+            "waypoint_0_clues_0_distance_to_clue_shown": [
+                "2000"
+            ],
+            "waypoint_0_clues_1_description": [
+                "Grassy, green, and near some wet stuff"
+            ],
+            "waypoint_0_clues_1_distance_to_clue_shown": [
+                "500"
+            ],
+            "waypoint_0_clues": [
+                "4"
+            ],
+            "waypoint_0_tasks_0_task": [
+                "Find Bark"
+            ],
+            "waypoint_0_tasks": [
+                "3"
+            ],
+            "waypoint": [
+                "4"
+            ],
+            "waypoint_0_clues_2_description": [
+                "Your almost there"
+            ],
+            "waypoint_0_clues_2_distance_to_clue_shown": [
+                "250"
+            ],
+            "waypoint_0_tasks_1_task": [
+                "Bring back a cup of water"
+            ],
+            "waypoint_0_tasks_2_task": [
+                "Catch a Squirrel"
+            ],
+            "waypoint_1_location": [
+                "50 Lawrence Buildings, London N16 7LQ, UK|51.5610952190917,-0.073319570800777"
+            ],
+            "waypoint_1_clues_0_description": [
+                "Get your walk on!"
+            ],
+            "waypoint_1_clues_0_distance_to_clue_shown": [
+                "2000"
+            ],
+            "waypoint_1_clues_1_description": [
+                "Its a pub thats got lots of people in it"
+            ],
+            "waypoint_1_clues_1_distance_to_clue_shown": [
+                "500"
+            ],
+            "waypoint_1_clues": [
+                "3"
+            ],
+            "waypoint_1_tasks_0_task": [
+                "Borrow a glass from the bar"
+            ],
+            "waypoint_1_tasks_1_task": [
+                "Drink a alcoholic beverage"
+            ],
+            "waypoint_1_tasks_2_task": [
+                "Drink a glass of water"
+            ],
+            "waypoint_1_tasks_3_task": [
+                "Dance on the table"
+            ],
+            "waypoint_1_tasks": [
+                "4"
+            ],
+            "waypoint_2_location": [
+                "191 Queens gate, London|51.500609,-0.17972740000004706"
+            ],
+            "waypoint_2_clues_0_description": [
+                "Start ya walking"
+            ],
+            "waypoint_2_clues_0_distance_to_clue_shown": [
+                "2000"
+            ],
+            "waypoint_2_clues_1_description": [
+                "Buy Some K Cidre near by"
+            ],
+            "waypoint_2_clues_1_distance_to_clue_shown": [
+                "500"
+            ],
+            "waypoint_2_clues": [
+                "3"
+            ],
+            "waypoint_2_tasks_0_task": [
+                "Drink K-Cider"
+            ],
+            "waypoint_2_tasks_1_task": [
+                "Eat"
+            ],
+            "waypoint_2_tasks_2_task": [
+                "Hostel living"
+            ],
+            "waypoint_2_tasks": [
+                "3"
+            ],
+            "waypoint_0_area_description": [
+                "Camden"
+            ],
+            "waypoint_1_area_description": [
+                "Dalston"
+            ],
+            "waypoint_2_area_description": [
+                "Hyde Park"
+            ],
+            "waypoint_2_clues_2_description": [
+                "Go in, crack a k-cidre & drop knee skull... hostel living mate"
+            ],
+            "waypoint_2_clues_2_distance_to_clue_shown": [
+                "100"
+            ],
+            "waypoint_0_clues_3_description": [
+                "Time to start hunting!"
+            ],
+            "waypoint_0_clues_3_distance_to_clue_shown": [
+                "100"
+            ],
+            "waypoint_1_clues_2_description": [
+                "It's called the portman bar"
+            ],
+            "waypoint_1_clues_2_distance_to_clue_shown": [
+                "100"
+            ],
+            "waypoint_0_tasks_0_points": [
+                "0"
+            ],
+            "waypoint_0_tasks_1_points": [
+                "0"
+            ],
+            "waypoint_0_tasks_2_points": [
+                "0"
+            ],
+            "waypoint_1_tasks_0_points": [
+                "0"
+            ],
+            "waypoint_1_tasks_1_points": [
+                "0"
+            ],
+            "waypoint_1_tasks_2_points": [
+                "0"
+            ],
+            "waypoint_1_tasks_3_points": [
+                "0"
+            ],
+            "waypoint_2_tasks_0_points": [
+                "0"
+            ],
+            "waypoint_2_tasks_1_points": [
+                "0"
+            ],
+            "waypoint_2_tasks_2_points": [
+                "0"
+            ],
+            "waypoint_3_area_description": [
+                "Clapham"
+            ],
+            "waypoint_3_location": [
+                "Clapham High Street London|51.4634065,-0.13399690000005648"
+            ],
+            "waypoint_3_clues_0_description": [
+                "Bust a move to Clapham mate..."
+            ],
+            "waypoint_3_clues_0_distance_to_clue_shown": [
+                "1000"
+            ],
+            "waypoint_3_clues_1_description": [
+                "Test Distance 500"
+            ],
+            "waypoint_3_clues_1_distance_to_clue_shown": [
+                "500"
+            ],
+            "waypoint_3_clues_2_description": [
+                "Test Distance 250"
+            ],
+            "waypoint_3_clues_2_distance_to_clue_shown": [
+                "250"
+            ],
+            "waypoint_3_clues_3_description": [
+                "Test Distance 100"
+            ],
+            "waypoint_3_clues_3_distance_to_clue_shown": [
+                "100"
+            ],
+            "waypoint_3_clues": [
+                "4"
+            ],
+            "waypoint_3_tasks_0_task": [
+                "Beer"
+            ],
+            "waypoint_3_tasks_0_points": [
+                "10"
+            ],
+            "waypoint_3_tasks_1_task": [
+                "Vodka"
+            ],
+            "waypoint_3_tasks_1_points": [
+                "30"
+            ],
+            "waypoint_3_tasks_2_task": [
+                "Absinthe"
+            ],
+            "waypoint_3_tasks_2_points": [
+                "50"
+            ],
+            "waypoint_3_tasks": [
+                "3"
+            ],
+            "hunt_0_hunt_name": [
+                "Edinburgh "
+            ],
+            "hunt_0_challenge_0_name": [
+                "Arthur's Seat"
+            ],
+            "hunt_0_challenge_0_points": [
+                "50"
+            ],
+            "hunt_0_challenge_0_description": [
+                "Test to read challenge before game starts"
+            ],
+            "hunt_0_challenge_0_tourist_information": [
+                "Arthur's Seat is one of four hill forts, dating from around 2,000 years ago. Situated within Holyrood Park, as well as it's rich cultural heritage, the park offers walks, solace, wildlife, volcanic geology and unparalleled vistas of the city from its many vantage points."
+            ],
+            "hunt_0_challenge_0_location": [
+                "arthurs seat|55.9440833,-3.161833300000012"
+            ],
+            "hunt_0_challenge_0_gps_range": [
+                "100"
+            ],
+            "hunt_0_challenge": [
+                "6"
+            ],
+            "hunt": [
+                "2"
+            ],
+            "hunt_1_challenge_0_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_0_validated_points": [
+                "50"
+            ],
+            "hunt_0_tasks": [
+                "2"
+            ],
+            "hunt_1_challenge_0_location": [
+                "27 Hyde Park Gardens, London W2 2LZ, UK|51.51223620660172,-0.17276841645502827"
+            ],
+            "hunt_1_challenge_0_tourist_information": [
+                "Hyde park was created in 1950"
+            ],
+            "hunt_1_challenge_0_description": [
+                "Get to hyde park and take a picture of a homeless guy. \r\nThen offer him a drink."
+            ],
+            "hunt_0_tasks_0_name": [
+                "Buy a cucumber and a condom"
+            ],
+            "hunt_0_tasks_0_points": [
+                "50"
+            ],
+            "hunt_0_tasks_0_validated_points": [
+                "100"
+            ],
+            "hunt_0_tasks_0_": [
+                ""
+            ],
+            "hunt_0_tasks_0_challenge_name": [
+                ""
+            ],
+            "hunt_0_tasks_1_name": [
+                "Photo of a squirrel"
+            ],
+            "hunt_0_tasks_1_points": [
+                "100"
+            ],
+            "hunt_0_tasks_1_validated_points": [
+                "200"
+            ],
+            "hunt_0_tasks_1_challenge_name": [
+                "Hyde Park Challenge"
+            ],
+            "hunt_0_start": [
+                "22:30"
+            ],
+            "hunt_0_end": [
+                "20:00"
+            ],
+            "hunt_0_challenge_0_image": [
+                "60"
+            ],
+            "hunt_0_challenge_0_id": [
+                "0"
+            ],
+            "hunt_0_challenge_1_id": [
+                "0"
+            ],
+            "hunt_0_task_0_name": [
+                "Take a picture in front of the statue. "
+            ],
+            "hunt_0_task_0_points": [
+                "20"
+            ],
+            "hunt_0_task_0_validated_points": [
+                "20"
+            ],
+            "hunt_0_task_0_challenge_name": [
+                "St. Giles Cathedral"
+            ],
+            "hunt_1_challenge_0_name": [
+                "Hyde Park Challenge"
+            ],
+            "hunt_1_end": [
+                "19:03"
+            ],
+            "hunt_1_start": [
+                "11:00"
+            ],
+            "hunt_1_hunt_name": [
+                "Scavenger Hunt 1"
+            ],
+            "hunt_0_task": [
+                "3"
+            ],
+            "hunt_1_challenge_0_validated_points": [
+                "100"
+            ],
+            "hunt_1_challenge_0_points": [
+                "50"
+            ],
+            "hunt_1_challenge_0_image": [
+                "49"
+            ],
+            "hunt_1_challenge_1_name": [
+                "Big Ben Ballbreaker"
+            ],
+            "hunt_1_challenge_1_points": [
+                "2000"
+            ],
+            "hunt_1_challenge_1_validated_points": [
+                "3000"
+            ],
+            "hunt_1_challenge_1_description": [
+                "Climb the big ben"
+            ],
+            "hunt_1_challenge_1_tourist_information": [
+                "The big ben is not a person..."
+            ],
+            "hunt_1_challenge_1_location": [
+                "Big Ben London|51.5007046,-0.12457480000000487"
+            ],
+            "hunt_1_challenge_1_gps_range": [
+                "100"
+            ],
+            "hunt_1_challenge_1_image": [
+                "48"
+            ],
+            "hunt_1_challenge": [
+                "2"
+            ],
+            "hunt_1_task_0_name": [
+                "Buy a cucumber and a condom"
+            ],
+            "hunt_1_task_0_points": [
+                "50"
+            ],
+            "hunt_1_task_0_validated_points": [
+                "100"
+            ],
+            "hunt_1_task_0_challenge_name": [
+                ""
+            ],
+            "hunt_1_task_1_name": [
+                "Photo of a squirrel"
+            ],
+            "hunt_1_task_1_points": [
+                "100"
+            ],
+            "hunt_1_task_1_validated_points": [
+                "200"
+            ],
+            "hunt_1_task_1_challenge_name": [
+                "Hyde Park Challenge"
+            ],
+            "hunt_1_task": [
+                "2"
+            ],
+            "hunt_0_challenge_1_name": [
+                "Scottish National Gallery"
+            ],
+            "hunt_0_challenge_1_points": [
+                "50"
+            ],
+            "hunt_0_challenge_1_validated_points": [
+                "50"
+            ],
+            "hunt_0_challenge_1_description": [
+                ""
+            ],
+            "hunt_0_challenge_1_tourist_information": [
+                "Located in the heart of the city at the intersection of Princes Street and The Mound housing the national collection of fine art.  Entry is free although there are sometimes exhibitions that a charge is levied for within the complex. "
+            ],
+            "hunt_0_challenge_1_location": [
+                "Scottish National Gallery|55.95143179999999,-3.2254508999999416"
+            ],
+            "hunt_0_challenge_1_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_1_image": [
+                "61"
+            ],
+            "hunt_0_challenge_2_name": [
+                "Palace of Holyroodhouse"
+            ],
+            "hunt_0_challenge_2_points": [
+                "50"
+            ],
+            "hunt_0_challenge_2_validated_points": [
+                "50"
+            ],
+            "hunt_0_challenge_2_description": [
+                ""
+            ],
+            "hunt_0_challenge_2_tourist_information": [
+                "This is an official residence of the Queen and the Royal Family."
+            ],
+            "hunt_0_challenge_2_location": [
+                "Palace of Holyroodhouse|55.9527138,-3.172272399999997"
+            ],
+            "hunt_0_challenge_2_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_2_image": [
+                "63"
+            ],
+            "hunt_0_task_1_name": [
+                "Give a stranger a piggy back ride"
+            ],
+            "hunt_0_task_1_points": [
+                "20"
+            ],
+            "hunt_0_task_1_validated_points": [
+                "20"
+            ],
+            "hunt_0_task_1_challenge_name": [
+                "Edinburgh Castle"
+            ],
+            "hunt_0_challenge_3_name": [
+                "Edinburgh Castle"
+            ],
+            "hunt_0_challenge_3_points": [
+                "50"
+            ],
+            "hunt_0_challenge_3_validated_points": [
+                "50"
+            ],
+            "hunt_0_challenge_3_description": [
+                ""
+            ],
+            "hunt_0_challenge_3_tourist_information": [
+                "A mighty fortress, the defender of the nation, and a world-famous visitor attraction – Edinburgh Castle has dominated the skyline for centuries. And the high volcanic rock on which it stands has been occupied for thousands of years. Today it is home to Scotland’s crown jewels, three military museums, the Scottish National War Memorial, the Prisons of War exhibition, and much more.The castle offers a fabulous day out – an experience not to be missed"
+            ],
+            "hunt_0_challenge_3_location": [
+                "Edinburgh Castle|55.9485947,-3.1999134999999796"
+            ],
+            "hunt_0_challenge_3_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_3_image": [
+                "62"
+            ],
+            "hunt_0_challenge_4_name": [
+                "St. Giles Cathedral"
+            ],
+            "hunt_0_challenge_4_points": [
+                "50"
+            ],
+            "hunt_0_challenge_4_validated_points": [
+                "50"
+            ],
+            "hunt_0_challenge_4_description": [
+                "This is the main church of The Church of Scotland."
+            ],
+            "hunt_0_challenge_4_tourist_information": [
+                ""
+            ],
+            "hunt_0_challenge_4_location": [
+                "St. Giles Cathedral|55.9494852,-3.1908677000000125"
+            ],
+            "hunt_0_challenge_4_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_4_image": [
+                "64"
+            ],
+            "hunt_0_challenge_5_name": [
+                "Budget Backpackers"
+            ],
+            "hunt_0_challenge_5_points": [
+                "50"
+            ],
+            "hunt_0_challenge_5_validated_points": [
+                "50"
+            ],
+            "hunt_0_challenge_5_description": [
+                "Smash a Pint"
+            ],
+            "hunt_0_challenge_5_tourist_information": [
+                "Edinburgh Hostel Living HQ"
+            ],
+            "hunt_0_challenge_5_location": [
+                "Budget Backpackers, Cowgate, Edinburgh|55.9486217,-3.18820919999996"
+            ],
+            "hunt_0_challenge_5_gps_range": [
+                "50"
+            ],
+            "hunt_0_challenge_5_image": [
+                ""
+            ],
+            "hunt_0_task_2_name": [
+                "Take a picture at HL HQ"
+            ],
+            "hunt_0_task_2_points": [
+                "20"
+            ],
+            "hunt_0_task_2_validated_points": [
+                "20"
+            ],
+            "hunt_0_task_2_challenge_name": [
+                "Budget Backpackers"
+            ]
+        }
+    }
+}

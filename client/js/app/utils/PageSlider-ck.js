@@ -1,0 +1,5 @@
+// slide from one container to the other
+// remembers state
+// minor modifications from original
+// listens to all transition ends, hides the "loader" dom element to stop flickering as transition starts
+function PageSlider(e){var e=e,t,n=[];this.slidePage=function(e,t){var r=n.length,i=window.location.hash;if(r===0){n.push(i);this.slidePageFrom(e,null,t);return}if(i===n[r-2]){n.pop();this.slidePageFrom(e,"left",t)}else{n.push(i);this.slidePageFrom(e,"right",t)}};this.slidePageFrom=function(n,r,i){e.append(n);if(!t||!r){n.attr("class","page center");t=n;i&&i();return}n.attr("class","page "+r);t.one("webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend",function(e){$(e.target).remove();i&&i()});e[0].offsetWidth;n.attr("class","page transition center");t.find(".main-content").hide();t.attr("class","page transition "+(r==="left"?"right":"left"));t=n}};

@@ -1,0 +1,28 @@
+<tr>
+    <% if(state == "incomplete") { %>
+    <td class="task">
+        <div class="inline-file <%= state %>">
+            <input type="file" class="task-file" accept="image/*;capture=camera" capture="camera" data-id="<%= task.id %>"/>
+            <span><%= task.name %></span>
+        </div>
+    </td>
+    <td class="points">
+        <div class="inline-file <%= state %>">
+            <input type="file" class="task-file" accept="image/*;capture=camera" capture="camera"data-id="<%= task.id %>" />
+            <span><%= task.points %></span>
+        </div>
+    </td>
+    <% } else { %>
+    <td class="task">
+        <div class="inline-file <%= state %>">
+            <img src="<%= userTask.image %>" class="small-image" />
+            <span><%= userTask.name %></span>
+        </div>
+    </td>
+    <td class="points">
+        <div class="inline-file <%= state %>">
+            <span><%= userTask.points %></span>
+        </div>
+    </td>
+    <% } %>
+</tr>
