@@ -26,5 +26,9 @@ JS Libraries used:
 	- underscore (used with backbone.js, utility library for dealing with models and collections)
 	
 CSS Libraries used:
+
 	- bootstrap (but only a very very small part of it, reset, buttons, grid)
 	- font-awesome (beautiful icons loaded through css)
+	
+Demo link:
+	http://www.onlinetrix.co.uk/hostel-scavenger/
