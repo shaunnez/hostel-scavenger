@@ -1,0 +1,12 @@
+{
+	"name": "Phonegap",
+	"version":"1.0.0",
+	"description": "Phonegap Workship",
+	"author": "Shaun Nesbitt <shaun.nesbitt@hotmail.com>",
+	"dependencies": {
+		"express": "3.0.x",
+		"request": "2.12.0",
+		"moment": "2.0.0"
+	},
+	"engine": "node >= 0.8.0"
+}
